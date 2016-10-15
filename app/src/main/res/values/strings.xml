@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NSK_Android_App</string>
+    <string name="txtLogin">Login: </string>
+    <string name="etUsernameHint">Username</string>
+    <string name="etPasswordHint">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="txtRegistration">Registration: </string>
+    <string name="txtRegisterLink">Register HERE</string>
+    <string name="txtLoginLink">Login HERE</string>
+    <string name="btnRegister">Register</string>
+    <string name="etEmailHint">E-mail</string>
+    <string name="profileString">Profile</string>
+    <string name="btnClassesCategory">CLASSES</string>
+    <string name="btnDungeonsCatgeory">DUNGEONS</string>
+    <string name="btnBossesCategory">BOSSES</string>
+    <string name="txtFavClass">Your favorite class:</string>
+    <string name="classesCategoryTitle">Classes</string>
+    <string name="dungeonsCategoryTitle">Dungeons</string>
+    <string name="bossesCategoryTitle">Bosses</string>
+    <string name="txtMoreDetails">[Click for more details]</string>
+    <string name="txtBackToProfile">BACK TO PROFILE</string>
+    <string name="btnAbout">About</string>
+
+    <string-array name="favClassArray">
+        <item>Protector</item>
+        <item>Mage</item>
+        <item>Priest</item>
+        <item>Thief</item>
+    </string-array>
+
+</resources>
